@@ -1,24 +1,4 @@
-"""
-Enterprise Emergency Network Simulator
 
-A professional-grade interactive tool for simulating and analyzing emergency
-network topology using advanced graph algorithms and real-time analytics.
-
-Supports:
-- Minimum Spanning Tree calculation (Prim's algorithm)
-- Edge-disjoint path finding for redundancy
-- Network failure simulation with recovery analysis
-- Balanced command tree optimization
-- Graph coloring with frequency assignment
-- Real-time network analytics and metrics
-- Node centrality analysis
-- Network resilience assessment
-- Animated results with smooth transitions
-- Background processing with progress indicators
-
-Author: Network Engineering Team
-Version: 3.0.0
-"""
 
 import logging
 import tkinter as tk
