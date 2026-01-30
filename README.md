@@ -325,6 +325,3 @@ Each problem is solved by identifying its computational structure and applying t
 * Clear, examination-ready explanations
 * Professional presentation
 
-
-
-Do you want me to   `
