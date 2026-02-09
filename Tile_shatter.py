@@ -23,8 +23,7 @@ class Solution:
         return dp[1][n]
 
 
-# 🔽 THIS PART IS IMPORTANT (to run the code)
 if __name__ == "__main__":
     tiles = [3, 1, 5, 8]
     sol = Solution()
-    print(sol.maxPoints(tiles))  # Expected output: 167
+    print(sol.maxPoints(tiles))  
